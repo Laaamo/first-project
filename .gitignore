@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+!**/src/main/**
+!**/src/test/**
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs & reports
+logs/
+reports/
+*.log
+
+# Secrets — never commit these
+*.env
+.env
+application.properties
+known_devices.json
+
+# OS
+.DS_Store
+Thumbs.db
