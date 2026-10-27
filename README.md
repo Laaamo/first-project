@@ -1,8 +1,8 @@
 # Bryan Perez — Portfolio & Projects
 
 **Computer Science Student @ University of Georgia** | Athens, GA  
-📧 Bryan.Perez.Saul@gmail.com | 🔗 [linkedin.com/in/bryan-perez-5416b6237](https://linkedin.com/in/bryan-perez-5416b6237)  
-🎓 B.S. Computer Science | GPA: 3.5/4.0 | Expected May 2027
+📧 Bryan.Perez.Saul@gmail.com   
+🎓 B.S. Computer Science | GPA: 3.5/4.0 | Expected May 2028
 
 ---
 
@@ -92,7 +92,7 @@ A Java Spring Boot web application that aggregates and filters UGA campus events
 ## Education
 
 **University of Georgia** — Athens, GA  
-B.S. Computer Science | GPA: 3.5/4.0 | Expected May 2027  
+B.S. Computer Science | GPA: 3.5/4.0 | Expected May 2028
 
 *Relevant Coursework:* Data Structures, Object-Oriented Programming, Computer Systems, Networking Fundamentals
 
